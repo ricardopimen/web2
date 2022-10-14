@@ -9,10 +9,138 @@ body{
     min-height: 100vh;
 
 }
+.foto1 { 
+    position: absolute;
+     left: 78.42%;
+    right: 2.8%;
+    top: 2%;
+    bottom: 69.88%;
+       }
+
+       .foto2 {  
+        position: absolute;
+        width: 547px;
+        height: 424px;
+        left: 180px;
+        top: 199px;
+     
+       }
 .contenedor{
     background: linear-gradient(90deg, #314755 0%, #26A0DA 100%);
     position: relative;
     height: 800px;
     display: flex;
     align-items: center;
+}
+
+.titulo{
+    
+position: absolute;
+width: 600px;
+height: 56px;
+left: 0px;
+top: 58px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+}
+
+.subtitulo{
+    position: absolute;
+width: 713px;
+height: 93px;
+left: 40px;
+top: 137px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+.el{
+    position: absolute;
+width: 208px;
+height: 42px;
+left: 772px;
+top: 328px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #F7931E;
+}
+.pl{
+    position: absolute;
+width: 208px;
+height: 47px;
+left: 772px;
+top: 381px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #9EDD6C;
+}
+.hu{
+    position: absolute;
+width: 295px;
+height: 49px;
+left: 774px;
+top: 430px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #CE4823;
+}
+.ele{
+    position: absolute;
+width: 279px;
+height: 43px;
+left: 775px;
+top: 487px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #FF9F9F;
+}
+.cta{
+    position: absolute;
+    width: 127.8px;
+    height: 25px;
+    left: 941.6px;
+    top: 584px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #57b54b9a;
+display: inline-block;
+text-align: center;
+background-color: #FFFFFF;
+border-radius: 6px;
 }
